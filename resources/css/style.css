@@ -4,13 +4,13 @@
 }
 
 
-#home{
+.menu{
   background-image: url("./resources/images/the-flatiron-building.png");
   font-size: 18px;
   color: white;
 }
 
-#home h1{
+.menu h1{
   font-size: 70px;
   color: white;
   font-weight: bold;
@@ -30,7 +30,7 @@ p{
   font-size: 14px;
 }
 
-#portfolio .header{
+.header{
   background-image: url("./resources/images/the-flatiron-building.png");
   font-size: 23px;
   font-weight: bold;
